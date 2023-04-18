@@ -1,4 +1,5 @@
-
+SUA_ACCOUNT_SID = 'sidaccountexemplo'
+SEU_AUTH_TOKEN = 'tokenauthexemplo'
  
 from twilio.rest import Client
 import requests
