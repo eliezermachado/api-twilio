@@ -19,7 +19,16 @@ Por fim, o código imprime uma mensagem indicando que o arquivo foi salvo com su
 
 ## Versão
 
-`twilio-python` usado nesse procedimento a versão do Python 3.11
+Usado nesse procedimento a versão do Python 3.11
+
+## As versões suportadas:
+Versões suportadas nessa biblioteca de acordo com a [documentação](https://pypi.org/project/twilio/)
+
+Python 3.7
+Python 3.8
+Python 3.9
+Python 3.10
+Python 3.11
 
 
 ## Intalação
