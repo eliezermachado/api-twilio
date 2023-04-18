@@ -18,7 +18,6 @@ Além disso, o código adiciona uma verificação para criar uma pasta com o nom
 Por fim, o código imprime uma mensagem indicando que o arquivo foi salvo com sucesso.
 
 ## Versão
-
 Usado nesse procedimento a versão do Python 3.11
 
 ## As versões suportadas:
@@ -29,7 +28,6 @@ Python 3.8
 Python 3.9
 Python 3.10
 Python 3.11
-
 
 ## Intalação
 
