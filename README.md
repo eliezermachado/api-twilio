@@ -1,4 +1,5 @@
-# twilio-python
+# API Twilio com SDK do Python.
+
 
 [![Tests](https://github.com/twilio/twilio-python/actions/workflows/test-and-deploy.yml/badge.svg)](https://github.com/twilio/twilio-python/actions/workflows/test-and-deploy.yml)
 [![PyPI](https://img.shields.io/pypi/v/twilio.svg)](https://pypi.python.org/pypi/twilio)
@@ -18,3 +19,4 @@
 ```shell
 pip3 install twilio
 ```
+by: Eliezer Machado
