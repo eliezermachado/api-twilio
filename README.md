@@ -8,12 +8,12 @@
 ## Documentação
 
 
-## Versions
+## Versão
 
 `twilio-python` usado nesse procedimento a versão do Python 3.11
 
 
-## Installation
+## Intalação
 
 ```shell
 pip3 install twilio
